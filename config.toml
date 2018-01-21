@@ -1,5 +1,6 @@
 # Site settings
-baseURL = "https://github.com/habsinn/habsinn.github.io"
+publishDir = "public"
+baseURL = "socialmediasquad.cc"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
