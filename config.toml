@@ -1,5 +1,4 @@
 # Site settings
-publishDir = "public"
 baseURL = "socialmediasquad.cc"
 languageCode = "en-us"
 title = "Forty"
