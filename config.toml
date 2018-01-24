@@ -1,6 +1,6 @@
 # Site settings
 contentDir = "content"
-baseURL = "socialmediasquad.cc"
+baseURL = "https://modest-hopper-7c3032.netlify.com/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
