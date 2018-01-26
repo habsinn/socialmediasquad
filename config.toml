@@ -1,6 +1,6 @@
 # Site settings
 contentDir = "content"
-baseURL = "https://modest-hopper-7c3032.netlify.com/"
+baseURL = "http://friendly-minsky-901369.netlify.com/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
@@ -18,7 +18,7 @@ googleAnalytics = ""
 
   # Provide your metadata here.
   name = "Social Media Squad"
-  description = "We are a distributed network of transnational consultants and trainers who help you leverage the full potential of the Internet technologies: from authentic conversations, to meaningful cooperations"
+  description = "We are a transnational network of consultants and trainers who help you leverage the potential of the Internet p2p technologies and culture: from authentic conversations, to meaningful cooperations"
 
   # Link custom assets relative to /static
   custom_css = []
