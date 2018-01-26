@@ -62,7 +62,7 @@ googleAnalytics = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "We are Social Media Squad"
-    subtitle = "We are a distributed network of transnational consultants and trainers who help you leverage the full potential of the Internet technologies: from authentic conversations, to meaningful cooperations"
+    subtitle = "We are a transnational network of consultants and trainers who help you leverage the potential of the Internet p2p technologies and culture: from authentic conversations, to meaningful cooperations"
     buttonText = "Get Started"
 
 
