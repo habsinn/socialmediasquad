@@ -30,13 +30,13 @@ googleAnalytics = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Oh noooooo, page couldn't be found for a technical reason"
+    heading = "Oh noooooo, page couldn't be found for a technical reason :-s"
     text = "Please kindly write to habib@socialmediasquad.cc to inform us(/)"
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = ""
+    subtitle = ""
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -72,40 +72,40 @@ googleAnalytics = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "1st menu"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
-      url = "blogs/aliquam"
+      title = "Projects and Clients"
+      subtitle = "During the past 4 years, we have been working with more than 60 clients in France, Spain, Mexico, Belgium and Germany: SMEs social enterprises, social business and CSR departments of big corporations, public institutions (European Commission, French Ministries for La France S'Engage)  "
+      image = "projects-and-clients.png"
+      url = "blogs/projects-and-clients"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
+      title = "Read our manifesto"
+      subtitle = "We are a network of independant consultants with the values and experience of a co-op enterprise. You can read more about the experience we have had while building our p2p community in our manifesto."
+      image = "manifesto.jpg"
+      url = "blogs/manifesto"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
+      title = "Online Listening"
+      subtitle = "We believe that authentic conversations cannot emerge without a proper listening skills and attitude. That is why we leverage the power of  datavisualization and qualitative analysis to listen to 100,000s of conversations on the topics that matter to our clients, thus identifying niche trends, interest groups and great potential contributors for your projects."
+      image = "online-listening.jpg"
+      url = "blogs/online-listening"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+      title = "Word-of-mouth Communication"
+      subtitle = "The oldest way throughout History that humans have been using to communicate and build trust with their peers is not advertising or public relations: it is word-of-mouth communication. And this is what we do, leveraging the lattest Internet technologies."
+      image = "word-of-mouth.jpg"
+      url = "blogs/word-of-mouth"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+      title = "Event Offline-Online Storytelling "
+      subtitle = "Organizing and event and gathering the right crowd takes a lot of energy. Telling a great live and post-Story involving transmedia contents is a powerful way of keeping the conversations on and triggering cooperations that will last beyond your closing ceremony."
+      image = "storytelling.jpg"
+      url = "blogs/storytelling"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+      title = "Trainings & Hybrid games"
+      subtitle = "We believe in autonomy as a driving value to make your work meaningful, driven by knowledge, know-how and creative productions. That is why we have crafted a unique series of both printed and digital games to help you experience new powerful and agile ways of working & learning in the era of the Internets."
+      image = "trainings.jpg"
+      url = "blogs/trainings"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -118,12 +118,8 @@ googleAnalytics = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "About us"
+    subtitle = """You can find more about the things we have been working on across the web by typing socialmediasquad.cc, "Social Media Squad" or @somediasquad in your search engine, or by looking at our names: Habib Belaribi, Romain Chanut, Ambre Perez, Louis-Marie De Certaines. """
     buttonText = "Read more"
     url = "blogs"
 
@@ -145,24 +141,24 @@ googleAnalytics = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    # formEmail = "example@domain.com"
+    formEmail = "habib@socialmediasquad.cc"
 
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "romain@socialmediasquad.cc, habib@socialmediasquad.cc"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "(+33) 7 82 43 20 68"
 
     [[params.contact.address]]
-    title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    title = "-"
+    street = "-"
+    city = "Paris - Bordeaux"
+    country = "France"
 
   # Footer section
   [params.footer]
@@ -171,30 +167,27 @@ googleAnalytics = ""
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      url= "https://www.twitter.com"
+      url= "https://www.twitter.com/somediasquad"
       label = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com"
+      url= "https://www.facebook.com/SoMediaSquad"
       label = "Facebook"
-
-    [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
-    
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://www.github.com"
-      label = "GitHub"
-
+ 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "https://www.linkedin.com/in/habibbelaribi/"
       label = "LinkedIn"
 
+    [[params.footer.social]]
+      icon = "fa-github"
+      url= "https://www.github.com/habsinn"
+      label = "GitHub"
+
+   
+
     [[params.footer.quicklinks]]
-      text = "Design: "
+      text = "Design: Forty"
       url= "https://www.html5up.net"
-alt = "HTML5 UP"
+      alt = "HTML5 UP"
