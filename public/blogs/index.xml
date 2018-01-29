@@ -1,50 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Working-Learning on Forty</title>
-    <link>http://friendly-minsky-901369.netlify.com/blogs/</link>
-    <description>Recent content in Working-Learning on Forty</description>
+    <title>Working, Learning in the era of the Internets on Forty</title>
+    <link>http://socialmediasquad.cc/blogs/</link>
+    <description>Recent content in Working, Learning in the era of the Internets on Forty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
     
-	<atom:link href="http://friendly-minsky-901369.netlify.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://socialmediasquad.cc/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Aliquam</title>
-      <link>http://friendly-minsky-901369.netlify.com/blogs/aliquam/</link>
+      <title>Event Offline-Online Storytelling</title>
+      <link>http://socialmediasquad.cc/blogs/blogs/storytelling/</link>
+      <pubDate>Mon, 29 Jan 2018 14:31:57 +0100</pubDate>
+      
+      <guid>http://socialmediasquad.cc/blogs/blogs/storytelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trainings &amp; Hybrid games</title>
+      <link>http://socialmediasquad.cc/blogs/blogs/trainings/</link>
+      <pubDate>Mon, 29 Jan 2018 14:21:15 +0100</pubDate>
+      
+      <guid>http://socialmediasquad.cc/blogs/blogs/trainings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word-of-mouth Communication</title>
+      <link>http://socialmediasquad.cc/blogs/blogs/word-of-mouth/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://friendly-minsky-901369.netlify.com/blogs/aliquam/</guid>
+      <guid>http://socialmediasquad.cc/blogs/blogs/word-of-mouth/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tempus</title>
-      <link>http://friendly-minsky-901369.netlify.com/blogs/tempus/</link>
+      <title>Online Listening</title>
+      <link>http://socialmediasquad.cc/blogs/blogs/online-listening/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>http://friendly-minsky-901369.netlify.com/blogs/tempus/</guid>
-      <description></description>
+      <guid>http://socialmediasquad.cc/blogs/blogs/online-listening/</guid>
+      <description>Feel free to write to us to have a presentation of one of our past Online Listening reports: habib@socialmediasquad.cc or romain@socialmediasquad.cc.</description>
     </item>
     
     <item>
-      <title>manifesto</title>
-      <link>http://friendly-minsky-901369.netlify.com/blogs/magna/</link>
+      <title>Manifesto</title>
+      <link>http://socialmediasquad.cc/blogs/blogs/manifesto/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>http://friendly-minsky-901369.netlify.com/blogs/magna/</guid>
+      <guid>http://socialmediasquad.cc/blogs/blogs/manifesto/</guid>
       <description> </description>
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>http://friendly-minsky-901369.netlify.com/blogs/ipsum/</link>
+      <title>Projects and Clients</title>
+      <link>http://socialmediasquad.cc/blogs/blogs/projects-and-clients/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>http://friendly-minsky-901369.netlify.com/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+      <guid>http://socialmediasquad.cc/blogs/blogs/projects-and-clients/</guid>
+      <description>Please browse a fairly complete list of our projects on this mapping:
+ </description>
     </item>
     
   </channel>
