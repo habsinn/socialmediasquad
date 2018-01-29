@@ -49,13 +49,7 @@ googleAnalytics = ""
       name = "Blogs"
       url = "blogs"
 
-    [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
 
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -66,7 +60,7 @@ googleAnalytics = ""
 
 # Button Style 1
     [[params.navigation.button1]]
-     name = "Get Started"
+     name = "Read more details"
      url = "blogs"
 
 # Banner section
@@ -167,9 +161,9 @@ googleAnalytics = ""
     phone = "(+33) 7 82 43 20 68"
 
     [[params.contact.address]]
-    title = "-"
-    street = "-"
-    city = "Paris - Bordeaux"
+    title = "Paris-Bordeaux"
+    street = ""
+    city = ""
     country = "France"
 
   # Footer section
