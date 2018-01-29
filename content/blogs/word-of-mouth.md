@@ -1,8 +1,8 @@
 ---
-title: "Aliquam"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
-slug: "aliquam"
-image: pic07.jpg
+title: "Word-of-mouth Communication"
+description: "The oldest way throughout History that humans have been using to communicate and build trust with their peers is not advertising or public relations: it is word-of-mouth communication. And this is what we do, leveraging the lattest Internet technologies."
+slug: "word-of-mouth"
+image: word-of-mouth.jpg
 keywords: ""
 categories: 
     - ""

@@ -1,8 +1,7 @@
 ---
-title: "Tempus"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
-slug: "tempus"
-image: pic08.jpg
+title: "Online Listening"
+description: "We believe that authentic conversations cannot emerge without a proper listening skills and attitude. That is why we leverage the power of  datavisualization and qualitative analysis to listen to 100,000s of conversations on the topics that matter to our clients, thus identifying niche trends, interest groups and great potential contributors for your projects.online-listening"
+image: online-listening.jpg
 keywords: ""
 categories: 
     - ""
@@ -10,3 +9,5 @@ categories:
 date: 2017-10-31T22:26:13-05:00
 draft: false
 ---
+
+Feel free to write to us to have a presentation of one of our past Online Listening reports: habib@socialmediasquad.cc or romain@socialmediasquad.cc.
