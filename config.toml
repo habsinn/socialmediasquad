@@ -1,6 +1,6 @@
 # Site settings
 contentDir = "content"
-baseURL = "http://friendly-minsky-901369.netlify.com/"
+baseURL = "http://socialmediasquad.cc"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
