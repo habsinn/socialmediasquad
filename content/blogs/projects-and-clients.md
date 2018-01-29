@@ -1,7 +1,7 @@
 ---
 title: "Projects and Clients"
 description: "During the past 4 years, we have been working with more than 60 clients in France, Spain, Mexico, Belgium and Germany: SMEs social enterprises, social business and CSR departments of big corporations, public institutions (European Commission, French Ministries for La France S'Engage)."
-slug: "projects-and-clients"
+slug: "blogs/projects-and-clients"
 image: projects-and-clients.jpg
 keywords: ""
 categories: 

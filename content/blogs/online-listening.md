@@ -1,6 +1,7 @@
 ---
 title: "Online Listening"
 description: "We believe that authentic conversations cannot emerge without a proper listening skills and attitude. That is why we leverage the power of  datavisualization and qualitative analysis to listen to 100,000s of conversations on the topics that matter to our clients, thus identifying niche trends, interest groups and great potential contributors for your projects.online-listening"
+slug: "blogs/online-listening"
 image: online-listening.jpg
 keywords: ""
 categories: 
