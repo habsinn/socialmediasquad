@@ -3,17 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://modest-hopper-7c3032.netlify.com/categories/</loc>
+    <loc>http://friendly-minsky-901369.netlify.com/blogs/aliquam/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://friendly-minsky-901369.netlify.com/blogs/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://friendly-minsky-901369.netlify.com/blogs/tempus/</loc>
+    <lastmod>2017-10-31T22:26:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://friendly-minsky-901369.netlify.com/blogs/magna/</loc>
+    <lastmod>2017-10-31T22:26:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://friendly-minsky-901369.netlify.com/blogs/ipsum/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://friendly-minsky-901369.netlify.com/categories/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://modest-hopper-7c3032.netlify.com/</loc>
+    <loc>http://friendly-minsky-901369.netlify.com/categories/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://modest-hopper-7c3032.netlify.com/tags/</loc>
+    <loc>http://friendly-minsky-901369.netlify.com/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://friendly-minsky-901369.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   

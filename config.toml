@@ -46,9 +46,16 @@ googleAnalytics = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "blogs"
+      name = "Blogs"
       url = "blogs"
 
+    [[params.navigation.links]]
+      name = "Generic Blog"
+      url = "blogs/ipsum"
+
+    [[params.navigation.links]]
+      name = "Elements"
+      url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -57,20 +64,25 @@ googleAnalytics = ""
     #    name = "NameOfLink"
     #    url = "UrlOfLink"
 
-  # Banner section
+# Button Style 1
+    [[params.navigation.button1]]
+     name = "Get Started"
+     url = "blogs"
+
+# Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "We are Social Media Squad"
     subtitle = "We are a transnational network of consultants and trainers who help you leverage the potential of the Internet p2p technologies and culture: from authentic conversations, to meaningful cooperations"
-    buttonText = "Get Started"
+    buttonText = "Get Started:"
 
 
   # Tiles Section
   [params.tiles]
     enable = true
     # Display your showcases here.
-    
+
     [[params.tiles.showcase]]
       title = "Projects and Clients"
       subtitle = "During the past 4 years, we have been working with more than 60 clients in France, Spain, Mexico, Belgium and Germany: SMEs social enterprises, social business and CSR departments of big corporations, public institutions (European Commission, French Ministries for La France S'Engage)  "
@@ -174,7 +186,7 @@ googleAnalytics = ""
       icon = "fa-facebook"
       url= "https://www.facebook.com/SoMediaSquad"
       label = "Facebook"
- 
+
     [[params.footer.social]]
       icon = "fa-linkedin"
       url= "https://www.linkedin.com/in/habibbelaribi/"
@@ -185,7 +197,7 @@ googleAnalytics = ""
       url= "https://www.github.com/habsinn"
       label = "GitHub"
 
-   
+
 
     [[params.footer.quicklinks]]
       text = "Design: Forty"

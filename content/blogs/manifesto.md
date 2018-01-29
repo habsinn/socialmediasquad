@@ -1,5 +1,5 @@
 ---
-title: "Magna"
+title: "manifesto"
 description: "Lorem Etiam Nullam"
 slug: "magna"
 image: pic09.jpg
