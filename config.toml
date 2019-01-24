@@ -1,8 +1,8 @@
 # Site settings
 contentDir = "content"
-baseURL = "http://socialmediasquad.cc"
+baseURL = "/"
 languageCode = "en-us"
-title = "Forty"
+title = "Social Media Squad"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
