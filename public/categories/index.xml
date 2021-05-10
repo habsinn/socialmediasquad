@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forty</title>
-    <link>http://socialmediasquad.cc/categories/</link>
-    <description>Recent content on Forty</description>
+    <title>Categories on Social Media Squad</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Social Media Squad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
-    
-	<atom:link href="http://socialmediasquad.cc/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Word-of-mouth Communication</title>
-      <link>http://socialmediasquad.cc/blogs/word-of-mouth/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>http://socialmediasquad.cc/blogs/word-of-mouth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Word-of-mouth Communication</title>
-      <link>http://socialmediasquad.cc/blogs/word-of-mouth/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>http://socialmediasquad.cc/blogs/word-of-mouth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online Listening</title>
-      <link>http://socialmediasquad.cc/blogs/online-listening/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>http://socialmediasquad.cc/blogs/online-listening/</guid>
-      <description>We believe that authentic conversations cannot emerge without a proper listening skills and attitude. That is why we leverage the power of datavisualization and qualitative analysis to listen to 100,000s of conversations on the topics that matter to our clients, thus identifying niche trends, interest groups and great potential contributors for your projects.
-Feel free to write to us to have a presentation of one of our past Online Listening reports: habib@socialmediasquad.</description>
-    </item>
-    
-    <item>
-      <title>Online Listening</title>
-      <link>http://socialmediasquad.cc/blogs/online-listening/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>http://socialmediasquad.cc/blogs/online-listening/</guid>
-      <description>We believe that authentic conversations cannot emerge without a proper listening skills and attitude. That is why we leverage the power of datavisualization and qualitative analysis to listen to 100,000s of conversations on the topics that matter to our clients, thus identifying niche trends, interest groups and great potential contributors for your projects.
-Feel free to write to us to have a presentation of one of our past Online Listening reports: habib@socialmediasquad.</description>
-    </item>
-    
-    <item>
-      <title>Manifesto</title>
-      <link>http://socialmediasquad.cc/blogs/manifesto/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>http://socialmediasquad.cc/blogs/manifesto/</guid>
-      <description>We are a network of independant consultants with the values and experience of a co-op enterprise. You can read more about the experience we have had while building our p2p community in our manifesto:
- </description>
-    </item>
-    
-    <item>
-      <title>Manifesto</title>
-      <link>http://socialmediasquad.cc/blogs/manifesto/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>http://socialmediasquad.cc/blogs/manifesto/</guid>
-      <description>We are a network of independant consultants with the values and experience of a co-op enterprise. You can read more about the experience we have had while building our p2p community in our manifesto:
- </description>
-    </item>
-    
-    <item>
-      <title>Projects and Clients</title>
-      <link>http://socialmediasquad.cc/blogs/projects-and-clients/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://socialmediasquad.cc/blogs/projects-and-clients/</guid>
-      <description>During the past 4 years, we have been working with more than 60 clients in France, Spain, Mexico, Belgium and Germany: SMEs social enterprises, social business and CSR departments of big corporations, public institutions (European Commission, French Ministries for La France S&amp;rsquo;Engage).&amp;rdquo;
-Some of the projects we made:
- </description>
-    </item>
-    
-    <item>
-      <title>Projects and Clients</title>
-      <link>http://socialmediasquad.cc/blogs/projects-and-clients/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://socialmediasquad.cc/blogs/projects-and-clients/</guid>
-      <description>During the past 4 years, we have been working with more than 60 clients in France, Spain, Mexico, Belgium and Germany: SMEs social enterprises, social business and CSR departments of big corporations, public institutions (European Commission, French Ministries for La France S&amp;rsquo;Engage).&amp;rdquo;
-Some of the projects we made:
- </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

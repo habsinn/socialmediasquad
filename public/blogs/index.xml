@@ -1,73 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Working, Learning in the era of the Internets on Forty</title>
-    <link>http://socialmediasquad.cc/blogs/</link>
-    <description>Recent content in Working, Learning in the era of the Internets on Forty</description>
+    <title>Working, Learning in the era of the Internets on Social Media Squad</title>
+    <link>/blogs/</link>
+    <description>Recent content in Working, Learning in the era of the Internets on Social Media Squad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
-    
-	<atom:link href="http://socialmediasquad.cc/blogs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event Offline-Online Storytelling</title>
-      <link>http://socialmediasquad.cc/blogs/storytelling/</link>
+      <link>/blogs/storytelling/</link>
       <pubDate>Mon, 29 Jan 2018 14:31:57 +0100</pubDate>
       
-      <guid>http://socialmediasquad.cc/blogs/storytelling/</guid>
+      <guid>/blogs/storytelling/</guid>
       <description>Organizing an event and gathering the right crowd takes a lot of energy. Telling a great live and post-Story involving transmedia contents is a powerful way of keeping the conversations on and triggering cooperations that will last beyond your closing ceremony.
-Have a look at some of the stories we wrote for our clients during dozens of international,local, and glocal events: [https://storify.com/SoMediaSquad]</description>
+Have a look at some of the stories we wrote for our clients during dozens of international,local, and glocal events: https://storify.com/SoMediaSquad (NB : Storify quietly shut down its centralized platform a few years ago.</description>
     </item>
     
     <item>
       <title>Trainings &amp; Hybrid games</title>
-      <link>http://socialmediasquad.cc/blogs/trainings/</link>
+      <link>/blogs/trainings/</link>
       <pubDate>Mon, 29 Jan 2018 14:21:15 +0100</pubDate>
       
-      <guid>http://socialmediasquad.cc/blogs/trainings/</guid>
-      <description></description>
+      <guid>/blogs/trainings/</guid>
+      <description>We believe in autonomy as a driving value to make your work meaningful, driven by knowledge, know-how and creative productions. That is why we have crafted a unique series of both printed and digital games to help you experience new powerful and agile ways of working &amp;amp; learning in the era of the Internets.&amp;quot;</description>
     </item>
     
     <item>
       <title>Word-of-mouth Communication</title>
-      <link>http://socialmediasquad.cc/blogs/word-of-mouth/</link>
+      <link>/blogs/word-of-mouth/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://socialmediasquad.cc/blogs/word-of-mouth/</guid>
-      <description></description>
+      <guid>/blogs/word-of-mouth/</guid>
+      <description>The oldest way throughout History that humans have been using to communicate and build trust with their peers is not advertising or public relations: it is word-of-mouth communication. And this is what we do, leveraging the lattest Internet technologies.</description>
     </item>
     
     <item>
       <title>Online Listening</title>
-      <link>http://socialmediasquad.cc/blogs/online-listening/</link>
+      <link>/blogs/online-listening/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>http://socialmediasquad.cc/blogs/online-listening/</guid>
+      <guid>/blogs/online-listening/</guid>
       <description>We believe that authentic conversations cannot emerge without a proper listening skills and attitude. That is why we leverage the power of datavisualization and qualitative analysis to listen to 100,000s of conversations on the topics that matter to our clients, thus identifying niche trends, interest groups and great potential contributors for your projects.
-Feel free to write to us to have a presentation of one of our past Online Listening reports: habib@socialmediasquad.</description>
+Feel free to write to us to have a presentation of one of our past Online Listening reports: habib@aquilenet.</description>
     </item>
     
     <item>
       <title>Manifesto</title>
-      <link>http://socialmediasquad.cc/blogs/manifesto/</link>
+      <link>/blogs/manifesto/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>http://socialmediasquad.cc/blogs/manifesto/</guid>
+      <guid>/blogs/manifesto/</guid>
       <description>We are a network of independant consultants with the values and experience of a co-op enterprise. You can read more about the experience we have had while building our p2p community in our manifesto:
  </description>
     </item>
     
     <item>
       <title>Projects and Clients</title>
-      <link>http://socialmediasquad.cc/blogs/projects-and-clients/</link>
+      <link>/blogs/projects-and-clients/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>http://socialmediasquad.cc/blogs/projects-and-clients/</guid>
-      <description>During the past 4 years, we have been working with more than 60 clients in France, Spain, Mexico, Belgium and Germany: SMEs social enterprises, social business and CSR departments of big corporations, public institutions (European Commission, French Ministries for La France S&amp;rsquo;Engage).&amp;rdquo;
+      <guid>/blogs/projects-and-clients/</guid>
+      <description>During the past 4 years, we have been working with more than 50 clients in France, Spain, Mexico, Belgium and Germany: SMEs social enterprises, social business and CSR departments of big corporations, public institutions (European Commission, French Ministries for La France S&amp;rsquo;Engage).&amp;quot;
 Some of the projects we made:
- </description>
+  European Development Days- Commission Européenne, Brussels [Danone Communities, France-Mexico] (http://www.danonecommunities.com/) [Forum Social Mondial 2016, Montréal] (http://www.crid.asso.fr/spip.php?rubrique94) [Singa, France] (https://www.singafrance.com/) [Ministère de la Jeunesse, de la Ville et des Sports, France ] (http://www.</description>
     </item>
     
   </channel>

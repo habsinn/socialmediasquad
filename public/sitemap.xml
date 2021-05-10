@@ -1,63 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://socialmediasquad.cc/blogs/storytelling/</loc>
+    <loc>/blogs/storytelling/</loc>
     <lastmod>2018-01-29T14:31:57+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/blogs/trainings/</loc>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2018-01-29T14:31:57+01:00</lastmod>
+  </url><url>
+    <loc>/blogs/trainings/</loc>
     <lastmod>2018-01-29T14:21:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/blogs/word-of-mouth/</loc>
+  </url><url>
+    <loc>/blogs/word-of-mouth/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/blogs/</loc>
+  </url><url>
+    <loc>/blogs/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/blogs/online-listening/</loc>
+  </url><url>
+    <loc>/blogs/online-listening/</loc>
     <lastmod>2017-10-31T22:26:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/blogs/manifesto/</loc>
+  </url><url>
+    <loc>/blogs/manifesto/</loc>
     <lastmod>2017-10-31T22:26:09-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/blogs/projects-and-clients/</loc>
+  </url><url>
+    <loc>/blogs/projects-and-clients/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/categories/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/categories/</loc>
-    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/</loc>
-    <lastmod>2018-01-29T14:31:57+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://socialmediasquad.cc/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

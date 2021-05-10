@@ -191,9 +191,12 @@ googleAnalytics = ""
       url= "https://www.github.com/habsinn"
       label = "GitHub"
 
-
-
     [[params.footer.quicklinks]]
       text = "Design: Forty"
       url= "https://www.html5up.net"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
       alt = "HTML5 UP"
