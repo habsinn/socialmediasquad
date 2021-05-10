@@ -154,7 +154,7 @@ googleAnalytics = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "romain@socialmediasquad.cc, habib@socialmediasquad.cc"
+    email = "habib.belaribi@aquilenet.fr,romain@socialmediasquad.cc"
 
     [[params.contact.phone]]
     title = "Phone"
@@ -169,7 +169,7 @@ googleAnalytics = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "copyleft: Social Media Squad"
 
     [[params.footer.social]]
       icon = "fa-twitter"
